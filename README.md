@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Dharithri Rai B</h1>
 <h3 align="center">A Passionate Computer Science Engineer</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/max/828/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
-- 🌱 I’m currently learning **Python, Machine Learning, Raect, Web Development**
+🌱 I’m currently learning **Python, Machine Learning, Raect, Web Development**
 
-- 📫 How to reach me **dharithrirai18@gmail.com**
+📫 How to reach me **dharithrirai18@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
