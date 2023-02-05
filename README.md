@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Dharithri Rai B</h1>
 <h3 align="center">A Passionate Computer Science Engineer</h3>
-<img align="right" padding-bottom="20px" alt="coding" width="400" src="https://miro.medium.com/max/828/1*qdAW1TjCN57h1lbuuzvchg.gif">
+<img align="right" padding-bottom="20px" alt="coding" width="400" src="https://courses.asdacademy.in/wp-content/uploads/2022/07/61030-website-design.gif">
 
 
 🌱 I’m currently learning **Python, Machine Learning, Raect, Web Development**
