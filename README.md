@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning **Python, Machine Learning, Raect, Web Development**
 
-📫 How to reach me **dharithrirai18@gmail.com**
 
+📫 How to reach me **dharithrirai18@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/dharithri-rai-b-577790191/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dharithri rai b" height="25" width="30" /></a>
