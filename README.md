@@ -26,7 +26,7 @@ Here are some ideas to get you started:
  
  📫 How to reach me **dharithrirai18@gmail.com**
  
-<a href="https://www.linkedin.com/in/dharithri-rai-b-577790191/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dharithri rai b" height="25" width="30" /></a>
+<a href="https://www.linkedin.com/in/dharithri-rai/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dharithri rai b" height="25" width="30" /></a>
 <a href="https://twitter.com/BDharithri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="b_dharithri" height="25" width="30" /></a>
 <a href="https://auth.geeksforgeeks.org/user/dharithrirai18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dharithrirai18" height="25" width="30" /></a>
 </p>
