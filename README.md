@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <img align="right" padding-bottom="20px" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
 
-🌱 I’m currently learning **Python, Machine Learning, Raect, Web Development**
+🌱 I’m currently learning **Python, Machine Learning and Web Development**
 
 
 <h3 align="left">Connect with me:</h3>
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
  📫 How to reach me **dharithrirai18@gmail.com**
  
 <a href="https://www.linkedin.com/in/dharithri-rai-b-577790191/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dharithri rai b" height="25" width="30" /></a>
-<a href="https://twitter.com/b_dharithri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="b_dharithri" height="25" width="30" /></a>
+<a href="https://twitter.com/BDharithri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="b_dharithri" height="25" width="30" /></a>
 <a href="https://auth.geeksforgeeks.org/user/dharithrirai18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dharithrirai18" height="25" width="30" /></a>
 </p>
 
